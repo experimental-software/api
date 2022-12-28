@@ -6,4 +6,7 @@ info:
   description: 'Test TesTes '
 paths:
   /foo/bar/baz: {}
-  /baz/baz/bar: {}
+  /baz/baz/bar:
+    description: |+
+      Here is some test text.
+
